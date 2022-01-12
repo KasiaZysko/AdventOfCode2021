@@ -68,4 +68,4 @@ def part2():
 
 
 print(f"Part 1 answer is: {part1()}")
-print(f"Part 1 answer is: {part2()}")
+print(f"Part 2 answer is: {part2()}")
